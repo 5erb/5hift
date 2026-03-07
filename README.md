@@ -22,13 +22,17 @@
 
 Get the latest version of 5hift for Windows:
 
-[Download 5hift v1](https://github.com/5erb/5hift/releases/download/Release/5hift.exe)
+[Download 5hift](https://github.com/5erb/5hift/releases/download/v1.0.1/5hift.exe)
 
 > Just run the `.exe` and start recoloring your textures instantly.  
 
 ---
 
 ## Changelog
+**v1.0.1 - Bug Fixes**
+- Improved temp folder management for cleaner workflow
+- Fixed minor UI issues with color preview and progress bar
+- Bug fixes and stability improvements
 
 **v1 – Initial Release**
 - Released standalone Windows executable  
