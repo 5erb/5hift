@@ -47,8 +47,3 @@ Found a bug or have suggestions? Join the official Discord server to report issu
 ## Follow Me
 - **YouTube:** [5erb_](https://www.youtube.com/@5erb_)  
 - **X (formerly Twitter):** [5erb__](https://x.com/5erb__)  
-
----
-
-## License
-Include your license here (MIT / Apache / Proprietary).
